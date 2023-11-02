@@ -1,2 +1,0 @@
-def reset():
-    print("Reset")
