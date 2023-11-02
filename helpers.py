@@ -6,5 +6,5 @@ def reset():
 
 
 
-def check_mines():
-    print("check")
+def check_mines(row, column):
+    print(str(row)+str(column))
